@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Paint", "Paint\Paint.pyproj", "{1CBDF599-C1A6-46AD-B740-E9D4EA81B067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBDF599-C1A6-46AD-B740-E9D4EA81B067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBDF599-C1A6-46AD-B740-E9D4EA81B067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642A491D-86CA-4269-924D-7F9EAB02908D}
+	EndGlobalSection
+EndGlobal
